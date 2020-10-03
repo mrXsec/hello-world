@@ -1,2 +1,1 @@
-# hello-world
-just another repository
+hai nama saya ali saya berasal dari lampung
